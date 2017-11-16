@@ -1,0 +1,120 @@
+.home {
+    height: 100%;
+    width: 100%;
+    font-family: "微软雅黑";
+    margin-top: 0;
+    background-color: #f8f9fa;
+}
+.home h2{
+  margin: 0 0 0.2rem 0.25rem;
+  font-size:0.18rem;
+  color: #26315c;
+  padding-top:0.25rem; 
+}
+.home p{
+  font-size:0.14rem;
+  margin-left: 0.25rem;
+  line-height: 0.14rem;
+  color:#666;
+}
+.home h3{
+  font-size:0.18rem;
+  color:#26315c;
+}
+.home .maxNum{
+  margin:0.1rem 0 0 0.25rem;
+  font-weight: 900;
+  color:#26315c;
+}
+.home .ant-card{
+  margin:20px;
+  border-radius: 4px;
+  
+}
+
+.home .ant-card .ant-card-head{
+  padding:0;
+  margin: 0 20px;
+  height: 60px;
+  width: 100%;
+  border-bottom: 2px solid #e9e9e9;
+}
+.home .ant-card .ant-card-head .ant-card-head-title{
+  height: 48px;
+  width: 100%;
+  min-width: 100%;
+}
+.home .ant-card .ant-card-head .tabelName{
+  height: 48px;
+  width: 100%;
+}
+.home .ant-card .ant-card-head .tabelName h3{
+  float: left;
+  line-height: 60px;
+}
+.home .ant-card .ant-card-head .tabelName a{
+  display:inline-block;
+  margin:0 auto;
+  width: 90%;
+  text-align: center;
+  line-height: 60px;
+  
+}
+.home .ant-card .ant-card-head .tabelName a .ant-btn{
+  height: 30px;
+  font-size: 14px;
+  color:#31708f;
+}
+
+.home .ant-card .ant-card-body{
+  padding:0;
+  margin: 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.home .ant-table{
+  border-radius: 0;
+}
+.home .ant-table-thead > tr > th {
+  font-weight: 500;
+  transition: background .3s ease;
+  text-align: center;
+  font-family: '微软雅黑 Regular', '微软雅黑';
+  font-style: normal;
+  font-size: 16px;
+  background: #fff;
+  border-bottom: 1px solid #e9e9e9;
+  padding: 0;
+  color: #31708f;
+  line-height: 40px;
+}
+.home .ant-table-tbody > tr:nth-child(odd){
+  background: #f8f9fa;
+}
+.home .ant-table-tbody > tr > td {
+  text-align:center;
+  font-family:'微软雅黑';
+  font-weight: 400;
+  color: #31708f;
+  font-size: 14px;
+  padding: 0;
+  line-height: 40px;
+  
+}
+.home .ant-table-tbody > tr > td a{
+  padding: 0 10px;
+  line-height: 100%;
+  color:#2585cb;
+}
+
+
+
+
